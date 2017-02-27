@@ -2,7 +2,7 @@ import sys
 import os
 import time
 import random
-
+#test
 ####################Classes#####################################
 weapons = {"Big Sword": 40}
 #------------- Player class--------------
@@ -47,7 +47,7 @@ OrcIG = Orc("Orc")
 ########################################################
 ##################main menu#############################
 def main():
-    os.system("cls")
+    #os.system("cls")
     print("Welcome to my game!\n")
     print("1: start")
     print("2: load")
@@ -68,7 +68,7 @@ def main():
 
 #players name?
 def start():
-    os.system('cls')
+    #os.system('cls')
     print("Hello, what is your name?")
     option = input("->")
     global PlayerIG
@@ -76,13 +76,23 @@ def start():
     start1()
 ##greeting and menu
 def start1():
-    os.system("cls")
-    print("Hello! " + PlayerIG.name + " wazzup?")
-    print("Attack: %i" % PlayerIG.attack)
-    print('Health: %i / %i' % (PlayerIG.health, PlayerIG.maxhealth))
-    print("Gold: %i" % PlayerIG.gold)
-    print("Pots: %i" % PlayerIG.pots)
-    print("Weapons: %s\n\n" % PlayerIG.curweap)
+    #os.system("cls")
+    print("Hello, " + PlayerIG.name + ". Wazzup?!\n")
+    print("-----------------------------------------")
+    print("/Your stats:                            /")
+    print("/Attack: %i                             /" % PlayerIG.attack)
+    print('/Health: %i / %i                      /' % (PlayerIG.health, PlayerIG.maxhealth))
+    print("/Gold: %i                               /" % PlayerIG.gold)
+    print("/Pots: %i                                /" % PlayerIG.pots)
+    print("/Weapons: %s                 /" % PlayerIG.curweap)
+    print("-----------------------------------------")
+    time.sleep(2)
+    print(".")
+    time.sleep(0.6)
+    print(".")
+    time.sleep(0.4)
+    print(".")
+    print("Please choose an option:")
     print("1) fight")
     print("2) store")
     print("3) save")
@@ -105,9 +115,7 @@ def start1():
 #generate enemy
 def preFight():
     os.system('cls')
-
     global enemy
-
     enemynum = random.randint(1, 2)
     if enemynum == 1:
         print("You're facing the Goblin Bitch ")
@@ -118,12 +126,23 @@ def preFight():
     option = input("Enter to continue")
     fight()
 #fight
+firstTime = "true"
 def fight():
-    os.system('cls')
-    print("~~~~~%s                VS                 %s~~~~~" %(PlayerIG.name, enemy.name ))
+    #os.system('cls')
+    print("--------------------------------------------------------------")
+    print("~~~~~%s                  VS                 %s~~~~~" %(PlayerIG.name, enemy.name ))
     print("%s's health: %d / %d         %s's health: %i / %i" %(PlayerIG.name, PlayerIG.health, PlayerIG.maxhealth, enemy.name, enemy.health, enemy.maxhealth))
     print("Equipped weapon: %s" % PlayerIG.activeweap)
-    print("potions: %i\n" % PlayerIG.pots)
+    print("potions: %i" % PlayerIG.pots)
+    print("--------------------------------------------------------------")
+
+    if firstTime == "true":
+        for remaining in range(3, 0, -1):
+            print("Fight starting in: {:2d}".format(remaining))
+            time.sleep(1)
+        print("GOO!!\n\n")
+    global firstTime
+    firstTime = "false"
     print("Attack:          1")
     print("Take pot:        2")
     print("Run:             3")
@@ -143,7 +162,7 @@ def fight():
         fight()
 
 def newweap():
-    os.system('cls')
+    #os.system('cls')
     print("Choose one of these weapons")
     print("Bad Sword:         1")
     print("Big Sword:         2")
@@ -159,7 +178,7 @@ def newweap():
     fight()
 
 def attack():
-    os.system('cls')
+    #os.system('cls')
     PAttack = random.randint(PlayerIG.attack / 2, PlayerIG.attack)
     EAttack = random.randint(enemy.attack / 2, enemy.attack)
     if PAttack == PlayerIG.attack / 2:
@@ -183,7 +202,7 @@ def attack():
         fight()
 
 def potion():
-    os.system('cls')
+    #os.system('cls')
     if PlayerIG.pots == 0:
         print("No pots")
     else:
@@ -199,7 +218,7 @@ def potion():
     fight()
 
 def run():
-    os.system('cls')
+    #os.system('cls')
     runnum = random.randint(1, 3)
     if runnum == 1:
         print("you ran away!")
@@ -223,8 +242,8 @@ def run():
         else:
             fight()
 def win():
-    os.system('cls')
-    ##reset health for next match
+    #os.system('cls')
+    #reset health for next match
     enemy.health = enemy.maxhealth
     PlayerIG.health = PlayerIG.maxhealth
     #loot gold after winning
@@ -241,46 +260,50 @@ def dead():
     sys.exit()
 #store - still need to add buying option for pots
 def store():
-    os.system('cls')
+    #os.system('cls')
     print("Welcome to the store!")
-    print("what u wanna buy?")
-    print("1: For Big Sword, type 'Big Sword'")
-    print("2: Health Pot,")
-    print("More weapons coming later..")
-    print("Back to main menu, press 3")
+    time.sleep(1)
+    print(".")
+    time.sleep(1)
+    print("Choose what u wanna buy below:")
+    print("1: For Big Sword,    type 'Big Sword'")
+    print("2: Health Pot,       press 2")
+    print("More weapons:        coming soon..")
+    print("Back to main menu,   press 3")
     option = input(' ')
     if option == '3':
         start1()
     if option in weapons:
         if PlayerIG.gold >= weapons[option]:
-            os.system('cls')
+            #os.system('cls')
             PlayerIG.gold -= weapons[option]
             PlayerIG.curweap.append(option)
             print('you have purchased: %s' % option)
-            option = input('')
+            option = input("Press enter")
             store()
         else:
-            os.system('cls')
+            #os.system('cls')
             print("Not enough gold!!")
-            option = input('')
+            option = input("Press enter")
             store()
     if option == '2':
         if PlayerIG.gold >= 10:
             PlayerIG.pots += 1
             PlayerIG.gold -= 10
             print("you have purchased one health potion")
-            option = input('')
+            option = input("Press enter")
             store()
         else:
-            os.system('cls')
+            #os.system('cls')
             print("Not enough gold!!")
-            option = input('')
+            option = input("Press enter")
             store()
     else:
-        print('No such item!')
+        print('No such item!\n')
+        option = input("Press enter to go back to store")
         store()
 def save():
-    os.system('cls')
+    #os.system('cls')
     Player
 
     pass
