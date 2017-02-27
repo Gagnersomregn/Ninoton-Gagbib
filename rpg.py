@@ -2,7 +2,7 @@ import sys
 import os
 import time
 import random
-#test
+# New test HIHI
 ####################Classes#####################################
 weapons = {"Big Sword": 40}
 #------------- Player class--------------
