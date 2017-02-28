@@ -2,7 +2,6 @@ import sys
 import os
 import time
 import random
-# New test HIHI
 ####################Classes#####################################
 weapons = {"Big Sword": 40}
 #------------- Player class--------------
@@ -43,8 +42,7 @@ class Orc:
         self.attack = 18
         self.goldgain = 10
 OrcIG = Orc("Orc")
-
-########################################################
+#####################Classes########################################
 ##################main menu#############################
 def main():
     #os.system("cls")
@@ -66,7 +64,7 @@ def main():
         main()
 # # # # # # # #  #  # # # # # # # # #  # # # # # # # #
 
-#players name?
+# player name?
 def start():
     #os.system('cls')
     print("Hello, what is your name?")
@@ -74,7 +72,7 @@ def start():
     global PlayerIG
     PlayerIG = Player(option)
     start1()
-##greeting and menu
+# greeting and menu
 def start1():
     #os.system("cls")
     print("Hello, " + PlayerIG.name + ". Wazzup?!\n")
@@ -112,7 +110,7 @@ def start1():
         print("error!, lets try again! ")
         time.sleep(2)
         start1()
-#generate enemy
+# generate enemy
 def preFight():
     os.system('cls')
     global enemy
@@ -125,7 +123,7 @@ def preFight():
         enemy = OrcIG
     option = input("Enter to continue")
     fight()
-#fight
+# global variable set to false once the countdown for the first round is finished
 firstTime = "true"
 def fight():
     #os.system('cls')
@@ -135,7 +133,8 @@ def fight():
     print("Equipped weapon: %s" % PlayerIG.activeweap)
     print("potions: %i" % PlayerIG.pots)
     print("--------------------------------------------------------------")
-
+    # countdown the first time the game starts.
+    # -the global variable firstTime acts as a bool to accomplish this
     if firstTime == "true":
         for remaining in range(3, 0, -1):
             print("Fight starting in: {:2d}".format(remaining))
@@ -229,7 +228,7 @@ def run():
         print("you couldn't run")
         option = ('Press enter')
         os.system('cls')
-        ## back to enemy attacks you
+        # back to enemy attacks you
         EAttack = random.randint(enemy.attack / 2, enemy.attack)
         if EAttack == enemy.attack / 2:
             print("Enemy missed you!")
@@ -243,7 +242,7 @@ def run():
             fight()
 def win():
     #os.system('cls')
-    #reset health for next match
+    # reset health for next match
     enemy.health = enemy.maxhealth
     PlayerIG.health = PlayerIG.maxhealth
     #loot gold after winning
@@ -253,12 +252,11 @@ def win():
     option = input('Enter to continue')
     start1()
 def dead():
-    ##when you die, the program shuts down
+    # when you die, the program shuts down
     os.system('cls')
     print("You are dead")
     option = input("Press enter")
     sys.exit()
-#store - still need to add buying option for pots
 def store():
     #os.system('cls')
     print("Welcome to the store!")
@@ -269,8 +267,8 @@ def store():
     print("Choose what u wanna buy below:")
     print("1: For Big Sword(40 g),    type 'Big Sword'")
     print("2: Health Pot(10 g),       press 2")
-    print("More weapons:        coming soon..")
-    print("Back to main menu,   press 3")
+    print("More weapons:            coming soon..")
+    print("Back to main menu,       press 3")
     option = input(' ')
     if option == '3':
         start1()
@@ -306,7 +304,5 @@ def store():
 def save():
     #os.system('cls')
     Player
-
     pass
-#call main
 main()
