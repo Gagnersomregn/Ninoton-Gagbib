@@ -2,7 +2,7 @@ import sys
 import os
 import time
 import random
-####################Classes#####################################
+#############################Classes#####################################
 weapons = {"Big Sword": 40}
 #------------- Player class--------------
 class Player:
@@ -23,7 +23,6 @@ class Player:
         elif self.activeweap == "Big Sword":
             attack += 20
         return attack
-
 #------------Goblin class-------------
 class Goblin:
     def __init__(self, name):
@@ -42,8 +41,9 @@ class Orc:
         self.attack = 18
         self.goldgain = 10
 OrcIG = Orc("Orc")
-#####################Classes########################################
-##################main menu#############################
+###############################Classes####################################
+
+# main menu
 def main():
     #os.system("cls")
     print("Welcome to my game!\n")
@@ -62,8 +62,6 @@ def main():
         print("error! try again")
         time.sleep(2)
         main()
-# # # # # # # #  #  # # # # # # # # #  # # # # # # # #
-
 # player name?
 def start():
     #os.system('cls')
@@ -135,6 +133,7 @@ def fight():
     print("--------------------------------------------------------------")
     # countdown the first time the game starts.
     # -the global variable firstTime acts as a bool to accomplish this
+    # will show up as syntax warning but still works - fix this later
     if firstTime == "true":
         for remaining in range(3, 0, -1):
             print("Fight starting in: {:2d}".format(remaining))
