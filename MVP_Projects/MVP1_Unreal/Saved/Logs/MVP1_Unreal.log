@@ -1,0 +1,1169 @@
+﻿Log file open, 12/12/20 19:22:15
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: MVP1_Unreal
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.231549
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Config/Windows/Engine.ini]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Config/Windows/Engine.ini]
+[2020.12.12-18.22.15:483][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Config/Windows/Engine.ini]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Config/Windows/Engine.ini]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.12-18.22.15:483][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.12-18.22.15:484][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.12-18.22.15:484][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2020.12.12-18.22.15:484][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Config/Windows/Engine.ini]
+[2020.12.12-18.22.15:484][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Config/Windows/Engine.ini]
+[2020.12.12-18.22.15:492][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.12-18.22.15:492][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2020.12.12-18.22.15:493][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.12-18.22.15:493][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.12-18.22.15:493][  0]LogHAL: Display: Platform has ~ 16 GB [17009004544 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.12-18.22.15:493][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.12-18.22.15:493][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.12-18.22.15:493][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Config/Windows/Scalability.ini]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.12-18.22.15:494][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.12.12-18.22.15:495][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Config/Windows/Engine.ini]
+[2020.12.12-18.22.15:495][  0]LogInit: Computer: LAPTOP-PEFRL84S
+[2020.12.12-18.22.15:495][  0]LogInit: User: Anton
+[2020.12.12-18.22.15:495][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.12.12-18.22.15:495][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.12-18.22.15:495][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.12.12-18.22.15:495][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.12-18.22.15:495][  0]LogMemory: Process Physical Memory: 138.46 MB used, 138.46 MB peak
+[2020.12.12-18.22.15:495][  0]LogMemory: Process Virtual Memory: 112.35 MB used, 112.35 MB peak
+[2020.12.12-18.22.15:495][  0]LogMemory: Physical Memory: 7802.76 MB used,  8418.29 MB free, 16221.05 MB total
+[2020.12.12-18.22.15:495][  0]LogMemory: Virtual Memory: 134209552.00 MB used,  8178.64 MB free, 134217728.00 MB total
+[2020.12.12-18.22.15:500][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.12-18.22.15:524][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.12.12-18.22.15:525][  0]LogInit: Using OS detected language (en-GB).
+[2020.12.12-18.22.15:525][  0]LogInit: Using OS detected locale (en-SE).
+[2020.12.12-18.22.15:528][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.12.12-18.22.15:691][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.12-18.22.15:704][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2020.12.12-18.22.15:730][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.12-18.22.15:730][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.12-18.22.15:904][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.12-18.22.15:904][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.12-18.22.15:904][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.12-18.22.15:904][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.12-18.22.15:980][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2020.12.12-18.22.15:980][  0]LogD3D11RHI:       5980/0/8110 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.12.12-18.22.15:992][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.12.12-18.22.15:992][  0]LogD3D11RHI:       128/0/8110 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.12.12-18.22.15:994][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.12-18.22.15:994][  0]LogD3D11RHI:       0/0/8110 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.12-18.22.15:994][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.12-18.22.16:035][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.12-18.22.16:035][  0]LogD3D11RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.12-18.22.16:035][  0]LogWindows: EnumDisplayDevices:
+[2020.12.12-18.22.16:035][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.12.12-18.22.16:035][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.12.12-18.22.16:035][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.12.12-18.22.16:036][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.12.12-18.22.16:036][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.12.12-18.22.16:036][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2020.12.12-18.22.16:036][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2020.12.12-18.22.16:036][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2020.12.12-18.22.16:036][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2020.12.12-18.22.16:093][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.12-18.22.16:093][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.12-18.22.16:093][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.12.12-18.22.16:107][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.12-18.22.16:110][  0]LogRHI: GeForceNow SDK initialized: 1
+[2020.12.12-18.22.16:400][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.12-18.22.16:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.12-18.22.16:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.12-18.22.16:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.12-18.22.16:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.12-18.22.16:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.12-18.22.16:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.12-18.22.16:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.12-18.22.16:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.12-18.22.16:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.12-18.22.16:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.12-18.22.16:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.12-18.22.16:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.12-18.22.16:449][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.12.12-18.22.16:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.12-18.22.16:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.12-18.22.16:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.12-18.22.16:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.12-18.22.16:488][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.12-18.22.16:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.12-18.22.16:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.12-18.22.16:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.12-18.22.16:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2020.12.12-18.22.16:533][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2020.12.12-18.22.16:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2020.12.12-18.22.16:548][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2020.12.12-18.22.16:561][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.12-18.22.16:561][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.12-18.22.16:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.12-18.22.16:578][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.12-18.22.16:586][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.12-18.22.16:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.12-18.22.16:593][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.12-18.22.16:601][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.12-18.22.16:658][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2020.12.12-18.22.16:658][  0]LogShaderCompilers: Guid format shader working directory is -40 characters bigger than the processId version (../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Intermediate/Shaders/WorkingDirectory/2872/).
+[2020.12.12-18.22.16:659][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Anton/AppData/Local/Temp/UnrealShaderWorkingDir/680FAD104462CFEC823A15B9C78ABD9F/'.
+[2020.12.12-18.22.16:659][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.12-18.22.16:659][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.12-18.22.17:349][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.12-18.22.17:399][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/Anton/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2020.12.12-18.22.17:400][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Anton/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2020.12.12-18.22.17:400][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.12-18.22.17:400][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.12-18.22.17:400][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.12-18.22.17:400][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.12-18.22.17:410][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.12-18.22.17:410][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.12-18.22.17:410][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.12-18.22.17:418][  0]LogDerivedDataCache: Speed tests for C:/Users/Anton/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2020.12.12-18.22.17:418][  0]LogDerivedDataCache: Display: Performance to C:/Users/Anton/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=1110.74MBs, RandomWriteSpeed=136.69MBs. Assigned SpeedClass 'Local'
+[2020.12.12-18.22.17:419][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Anton/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.12-18.22.17:419][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.12-18.22.17:419][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.12-18.22.17:463][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.12-18.22.17:464][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.12-18.22.17:487][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.12.12-18.22.17:736][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.12-18.22.17:737][  0]LogInit: Active device profile: [000001AE15089B00][000001AE14E805C0 49] Windows
+[2020.12.12-18.22.17:737][  0]LogInit: Profiles: [000001AE15089B00][000001AE14E805C0 49] Windows, [000001AE15048D00][000001AE136C2740 49] WindowsNoEditor, [000001AE15088C00][000001AE136C68C0 49] WindowsServer, [000001AE1504AD00][000001AE136CAA40 49] WindowsClient, [000001AE1508A000][000001AE136CEBC0 49] IOS, [000001AE1504BA00][000001AE136D2D40 49] iPadAir, [000001AE1508AE00][000001AE136D6EC0 49] iPadAir2, [000001AE14FEED00][000001AE136E5180 49] IPadPro, [000001AE14FEEE00][000001AE136DB1C0 49] iPadAir3, [000001AE15089300][000001AE136EF340 49] iPadAir4, [000001AE14FEE700][000001AE136F34C0 49] iPadMini2, [000001AE1508B200][000001AE14E85600 49] iPadMini3, [000001AE14FED600][000001AE136F7740 49] iPadMini4, [000001AE15089100][000001AE136FB880 49] iPadMini5, [000001AE1503A600][000001AE137DBB00 49] iPhone6, [000001AE1503A700][000001AE137D3B40 49] iPodTouch6, [000001AE14FEF500][000001AE137E2140 49] iPhone7, [000001AE14FEF600][000001AE137DE180 49] iPodTouch7, [000001AE1503BF00][000001AE137E6300 49] iPhone5S, [000001AE14FEE300][000001AE137EA480 49] iPhone6Plus, [000001AE15039400][000001AE137EE600 49] iPhone6S, [000001AE14FED100][000001AE137F2780 49] iPhone6SPlus, [000001AE15038300][000001AE137F6900 49] iPhone7Plus, [000001AE14FECB00][000001AE137FAA80 49] iPhoneSE, [000001AE1503B200][000001AE137FEC00 49] iPhone8, [000001AE14FEE600][000001AE13802D80 49] iPhone8Plus, [000001AE15039900][000001AE13806F00 49] iPhoneX, [000001AE14FEE100][000001AE1380B080 49] iPhoneXS, [000001AE1503A300][000001AE1380F200 49] iPhoneXSMax, [000001AE14FEC800][000001AE13813380 49] iPhoneXR, [000001AE15039B00][000001AE13817500 49] iPhone11, [000001AE14FECC00][000001AE137D7640 49] iPhone11Pro, [000001AE1503B300][000001AE1381B780 49] iPhone11ProMax, [000001AE14FEC100][000001AE1381F8C0 49] iPhoneSE2, [000001AE15038500][000001AE13823A00 49] iPhone12Mini, [000001AE14FEFE00][000001AE1382BB80 49] iPhone12, [000001AE1503AB00][000001AE1389BD00 49] iPhone12Pro, [000001AE1503B900][000001AE1389E1C0 49] iPhone12ProMax, [000001AE15049C00][000001AE138A2340 49] iPadPro105, [000001AE15039D00][000001AE138A64C0 49] iPadPro129, [000001AE1504BD00][000001AE138AA640 49] iPadPro97, [000001AE15038D00][000001AE138AE7C0 49] iPadPro2_129, [000001AE15048700][000001AE138B2940 49] iPad5, [000001AE1503A000][000001AE138B6AC0 49] iPad6, [000001AE15048F00][000001AE138BAC40 49] iPad7, [000001AE1503B500][000001AE138BEDC0 49] iPad8, [000001AE15049B00][000001AE138C2F40 49] iPadPro11, [000001AE15048100][000001AE138C70C0 49] iPadPro2_11, [000001AE14FEDC00][000001AE138CB240 49] iPadPro3_129, [000001AE1504AA00][000001AE138CF3C0 49] iPadPro4_129, [000001AE14FEF400][000001AE138D3540 49] AppleTV, [000001AE1504BB00][000001AE138D76C0 49] AppleTV4K, [000001AE1503A100][000001AE13827800 49] TVOS, [000001AE15049E00][000001AE138DB940 49] Mac, [000001AE1503B800][000001AE138DFA80 49] MacClient, [000001AE1504A100][000001AE138E7C00 49] MacNoEditor, [000001AE15039F00][000001AE138EA0C0 49] MacServer, [000001AE1504B200][000001AE138EE240 49] Linux, [000001AE15039000][000001AE138F23C0 49] LinuxNoEditor, [000001AE1504AE00][000001AE138F6540 49] LinuxAArch64NoEditor, [000001AE15038800][000001AE138FA6C0 49] LinuxClient, [000001AE1504AB00][000001AE138FE840 49] LinuxAArch64Client, [000001AE15038100][000001AE139029C0 49] LinuxServer, [000001AE1504B800][000001AE14AEAB40 49] LinuxAArch64Server, [000001AE15038F00][000001AE14AEECC0 49] Android, [000001AE15049900][000001AE14AF2E40 49] Android_Low, [000001AE15038200][000001AE14AF6FC0 49] Android_Mid, [000001AE15049000][000001AE14AFB140 49] Android_High, [000001AE1503B400][000001AE14AFF2C0 49] Android_Default, [000001AE1504B300][000001AE14B03440 49] Android_Adreno4xx, [000001AE15038A00][000001AE14B075C0 49] Android_Adreno5xx_Low, [000001AE15048800][000001AE14B0B740 49] Android_Adreno5xx, [000001AE1503BC00][000001AE138E3880 49] Android_Adreno6xx, [000001AE15048A00][000001AE14B0F9C0 49] Android_Adreno6xx_Vulkan, [000001AE15038E00][000001AE14B13B00 49] Android_Mali_T6xx, [000001AE15049F00][000001AE14B17C40 49] Android_Mali_T7xx, [000001AE15038B00][000001AE14B1E100 49] Android_Mali_T8xx, [000001AE15048E00][000001AE14B22280 49] Android_Mali_G71, [000001AE15038400][000001AE14B26400 49] Android_Mali_G72, [000001AE15049600][000001AE14B2A580 49] Android_Mali_G72_Vulkan, [000001AE1503B700][000001AE14B2E700 49] Android_Mali_G76, [000001AE1504A500][000001AE14B32880 49] Android_Mali_G76_Vulkan, [000001AE1503A900][000001AE14B36A00 49] Android_Mali_G77, [000001AE1504B500][000001AE14B3AB80 49] Android_Mali_G77_Vulkan, [000001AE1503BA00][000001AE14B3ED00 49] Android_Vulkan_SM5, [000001AE1504A200][000001AE14B42E80 49] Android_PowerVR_G6xxx, [000001AE1503AC00][000001AE14B47000 49] Android_PowerVR_GT7xxx, [000001AE15049400][000001AE14B4B180 49] Android_PowerVR_GE8xxx, [000001AE1503BE00][000001AE14B4F300 49] Android_PowerVR_GM9xxx, [000001AE15048500][000001AE14B53480 49] Android_PowerVR_GM9xxx_Vulkan, [000001AE15039800][000001AE14B57600 49] Android_TegraK1, [000001AE1504A800][000001AE14B5B780 49] Android_Unknown_Vulkan, [000001AE14FEF200][000001AE14B1B8C0 49] Lumin, [000001AE15088300][000001AE14B5FA00 49] Lumin_Desktop, [000001AE14FEEC00][000001AE14B63B40 49] HoloLens, 
+[2020.12.12-18.22.17:845][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.12-18.22.17:845][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.12-18.22.17:845][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.12-18.22.17:845][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.12-18.22.17:845][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.12-18.22.17:867][  0]LogNetVersion: MVP1_Unreal 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1047102922)
+[2020.12.12-18.22.18:293][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2020.12.12-18.22.18:350][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.056778 seconds
+[2020.12.12-18.22.18:355][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2020.12.12-18.22.18:355][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2020.12.12-18.22.18:355][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.12-18.22.18:663][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.12-18.22.18:700][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.12-18.22.18:810][  0]SourceControl: Source control is disabled
+[2020.12.12-18.22.18:810][  0]SourceControl: Source control is disabled
+[2020.12.12-18.22.18:812][  0]SourceControl: Source control is disabled
+[2020.12.12-18.22.18:818][  0]SourceControl: Source control is disabled
+[2020.12.12-18.22.18:823][  0]SourceControl: Source control is disabled
+[2020.12.12-18.22.18:828][  0]LogUProjectInfo: Found projects:
+[2020.12.12-18.22.18:932][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.12-18.22.18:949][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.12-18.22.18:949][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.12-18.22.19:105][  0]LogCollectionManager: Loaded 0 collections in 0.001409 seconds
+[2020.12.12-18.22.19:126][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Collections/' took 0.00s
+[2020.12.12-18.22.19:126][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/Developers/Anton/Collections/' took 0.00s
+[2020.12.12-18.22.19:126][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/Collections/' took 0.00s
+[2020.12.12-18.22.19:126][  0]LogOcInput: OculusInput pre-init called
+[2020.12.12-18.22.19:137][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.12-18.22.19:137][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.12-18.22.19:179][  0]LogEngine: Initializing Engine...
+[2020.12.12-18.22.19:180][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.12-18.22.19:180][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.12.12-18.22.19:181][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.12-18.22.19:277][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.12-18.22.19:283][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.12-18.22.19:299][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2020.12.12-18.22.19:303][  0]LogAudio: Display: Audio Device Manager Initialized
+[2020.12.12-18.22.19:303][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2020.12.12-18.22.19:303][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-18.22.19:303][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-18.22.19:303][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-18.22.19:303][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-18.22.19:303][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-18.22.19:303][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-18.22.19:303][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-18.22.19:303][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-18.22.19:303][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-18.22.19:303][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-18.22.19:311][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-18.22.19:311][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-18.22.19:337][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.12.12-18.22.19:345][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-18.22.19:347][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-18.22.19:347][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-18.22.19:348][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-18.22.19:348][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.12.12-18.22.19:348][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2020.12.12-18.22.19:349][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.12.12-18.22.19:349][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.12.12-18.22.19:349][  0]LogInit: FAudioDevice initialized.
+[2020.12.12-18.22.19:349][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2020.12.12-18.22.19:349][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.12-18.22.19:392][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/Anton/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2020.12.12-18.22.19:392][  0]LogInit: Texture streaming: Enabled
+[2020.12.12-18.22.19:404][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2020.12.12-18.22.19:408][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.12-18.22.19:408][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.12-18.22.19:415][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.12-18.22.19:430][  0]LogInit: Transaction tracking system initialized
+[2020.12.12-18.22.19:449][  0]BlueprintLog: New page: Editor Load
+[2020.12.12-18.22.19:528][  0]LocalizationService: Localization service is disabled
+[2020.12.12-18.22.19:550][  0]TimingProfiler: Initialize
+[2020.12.12-18.22.19:550][  0]TimingProfiler: OnSessionChanged
+[2020.12.12-18.22.19:550][  0]LoadingProfiler: Initialize
+[2020.12.12-18.22.19:550][  0]LoadingProfiler: OnSessionChanged
+[2020.12.12-18.22.19:550][  0]NetworkingProfiler: Initialize
+[2020.12.12-18.22.19:550][  0]NetworkingProfiler: OnSessionChanged
+[2020.12.12-18.22.19:550][  0]MemoryProfiler: Initialize
+[2020.12.12-18.22.19:550][  0]MemoryProfiler: OnSessionChanged
+[2020.12.12-18.22.19:711][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2020.12.12-18.22.19:711][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.12-18.22.19:851][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/' took 0.00s
+[2020.12.12-18.22.20:052][  0]SourceControl: Source control is disabled
+[2020.12.12-18.22.20:052][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.571
+[2020.12.12-18.22.20:053][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.26/FeaturePacks/StarterContent.upack)
+[2020.12.12-18.22.20:053][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.12-18.22.20:053][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.20:053][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.12-18.22.20:057][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.12.12-18.22.20:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.12.12-18.22.20:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.12.12-18.22.20:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.12.12-18.22.20:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.12.12-18.22.20:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.12.12-18.22.20:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.12.12-18.22.20:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.12.12-18.22.20:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.12.12-18.22.20:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.12.12-18.22.20:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.12.12-18.22.20:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.12.12-18.22.20:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.12.12-18.22.20:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.12.12-18.22.20:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.12.12-18.22.20:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.12.12-18.22.20:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.12.12-18.22.20:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.12.12-18.22.20:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Audio/Fire01.uasset"
+[2020.12.12-18.22.20:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.12.12-18.22.20:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.12.12-18.22.20:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.12.12-18.22.20:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Audio/Light01.uasset"
+[2020.12.12-18.22.20:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.12.12-18.22.20:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Audio/Light02.uasset"
+[2020.12.12-18.22.20:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.12.12-18.22.20:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.12.12-18.22.20:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.12.12-18.22.20:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.12.12-18.22.20:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.12.12-18.22.20:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.12.12-18.22.20:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.12.12-18.22.20:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.12.12-18.22.20:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.12.12-18.22.20:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Audio/Steam01.uasset"
+[2020.12.12-18.22.20:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.12.12-18.22.20:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.12.12-18.22.20:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.12.12-18.22.20:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.12.12-18.22.20:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.12.12-18.22.20:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.12.12-18.22.20:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.12.12-18.22.20:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.12.12-18.22.20:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.12.12-18.22.20:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.12.12-18.22.20:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.12.12-18.22.20:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.12.12-18.22.20:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.12.12-18.22.20:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.12.12-18.22.20:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.12.12-18.22.20:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.12.12-18.22.20:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.12.12-18.22.20:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.12.12-18.22.20:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.12.12-18.22.20:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.12.12-18.22.20:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.12.12-18.22.20:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.12.12-18.22.20:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Maps/StarterMap.umap"
+[2020.12.12-18.22.20:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.12.12-18.22.20:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.12.12-18.22.20:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.12.12-18.22.20:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.12.12-18.22.20:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.12.12-18.22.20:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.12.12-18.22.20:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.12.12-18.22.20:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.12.12-18.22.20:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.12.12-18.22.20:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.12.12-18.22.20:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.12.12-18.22.20:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.12.12-18.22.20:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.12.12-18.22.20:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.12.12-18.22.20:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.12.12-18.22.20:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.12.12-18.22.20:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.12.12-18.22.20:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.12.12-18.22.20:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.12.12-18.22.20:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.12.12-18.22.20:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.12.12-18.22.20:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.12.12-18.22.20:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.12.12-18.22.20:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.12.12-18.22.20:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.12.12-18.22.20:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.12.12-18.22.20:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.12.12-18.22.20:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.12.12-18.22.20:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.12.12-18.22.20:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.12.12-18.22.20:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.12.12-18.22.20:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.12.12-18.22.20:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.12.12-18.22.20:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.12.12-18.22.20:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.12.12-18.22.20:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.12.12-18.22.20:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.12.12-18.22.20:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.12.12-18.22.20:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.12.12-18.22.20:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.12.12-18.22.20:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.12.12-18.22.20:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.12.12-18.22.20:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.12.12-18.22.20:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.12.12-18.22.20:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.12.12-18.22.20:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.12.12-18.22.20:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.12.12-18.22.20:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.12.12-18.22.20:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.12.12-18.22.20:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.12.12-18.22.20:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.12.12-18.22.20:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.12.12-18.22.20:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.12.12-18.22.20:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.12.12-18.22.20:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.12.12-18.22.20:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.12.12-18.22.20:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.12.12-18.22.20:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.12.12-18.22.20:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.12.12-18.22.20:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.12.12-18.22.20:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.12.12-18.22.20:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.12.12-18.22.20:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.12.12-18.22.20:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.12.12-18.22.20:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.12.12-18.22.20:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/SM_Door.uasset"
+[2020.12.12-18.22.20:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.12.12-18.22.20:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.12.12-18.22.20:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.12.12-18.22.20:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.12.12-18.22.20:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.12.12-18.22.20:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.12.12-18.22.20:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.12.12-18.22.20:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.12.12-18.22.20:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.12.12-18.22.20:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.12.12-18.22.20:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.12.12-18.22.20:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.12.12-18.22.20:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.12.12-18.22.20:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.12.12-18.22.20:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.12.12-18.22.20:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.12.12-18.22.20:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.12.12-18.22.20:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.12.12-18.22.20:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.12.12-18.22.20:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.12.12-18.22.20:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.12.12-18.22.20:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.12.12-18.22.20:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.12.12-18.22.20:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.12.12-18.22.20:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.12.12-18.22.20:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.12.12-18.22.20:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.12.12-18.22.20:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.12.12-18.22.20:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.12.12-18.22.20:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.12.12-18.22.20:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.12.12-18.22.20:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.12.12-18.22.20:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.12.12-18.22.20:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.12.12-18.22.20:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.12.12-18.22.20:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.12.12-18.22.20:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.12.12-18.22.20:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.12.12-18.22.20:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.12.12-18.22.20:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.12.12-18.22.20:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.12.12-18.22.20:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.12.12-18.22.20:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.12.12-18.22.20:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.12.12-18.22.20:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.12.12-18.22.20:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.12.12-18.22.20:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.12.12-18.22.20:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.12.12-18.22.20:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.12.12-18.22.20:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.12.12-18.22.20:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.12.12-18.22.20:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.12.12-18.22.20:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.12.12-18.22.20:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.12.12-18.22.20:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.12.12-18.22.20:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.12.12-18.22.20:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.12.12-18.22.20:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.12.12-18.22.20:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.12.12-18.22.20:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.12.12-18.22.20:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.12.12-18.22.20:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.12.12-18.22.20:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.12.12-18.22.20:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.12.12-18.22.20:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.12.12-18.22.20:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.12.12-18.22.20:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.12.12-18.22.20:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.12.12-18.22.20:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.12.12-18.22.20:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.12.12-18.22.20:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.12.12-18.22.20:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.12.12-18.22.20:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.12.12-18.22.20:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.12.12-18.22.20:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.12.12-18.22.20:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.12.12-18.22.20:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.12.12-18.22.20:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.12.12-18.22.20:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.12.12-18.22.20:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.12.12-18.22.20:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.12.12-18.22.20:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.12.12-18.22.20:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.12.12-18.22.20:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.12.12-18.22.20:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.12.12-18.22.20:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.12.12-18.22.20:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.12.12-18.22.20:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.12.12-18.22.20:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.12.12-18.22.20:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.12.12-18.22.20:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.12.12-18.22.20:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.12.12-18.22.20:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.12.12-18.22.20:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.12.12-18.22.20:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.12.12-18.22.20:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.12.12-18.22.20:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.12.12-18.22.20:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.12.12-18.22.20:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.12.12-18.22.20:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.12.12-18.22.20:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.12.12-18.22.20:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.12.12-18.22.20:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.12.12-18.22.20:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.12.12-18.22.20:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.12.12-18.22.20:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.12.12-18.22.20:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.12.12-18.22.20:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.12.12-18.22.20:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.12.12-18.22.20:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.12.12-18.22.20:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.12.12-18.22.20:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.12.12-18.22.20:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.12.12-18.22.20:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.12.12-18.22.20:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.12.12-18.22.20:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.12.12-18.22.20:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.12.12-18.22.20:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.12.12-18.22.20:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.12.12-18.22.20:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.12.12-18.22.20:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.12.12-18.22.20:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.12.12-18.22.20:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.12.12-18.22.20:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.12.12-18.22.20:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.12.12-18.22.20:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.12.12-18.22.20:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.12.12-18.22.20:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.12.12-18.22.20:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.12.12-18.22.20:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.12.12-18.22.20:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.12.12-18.22.20:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.12.12-18.22.20:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.12.12-18.22.20:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.12.12-18.22.20:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.12.12-18.22.20:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.12.12-18.22.20:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.12.12-18.22.20:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.12.12-18.22.20:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.12.12-18.22.20:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.12.12-18.22.20:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.12.12-18.22.20:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.12.12-18.22.20:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.12.12-18.22.20:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.12.12-18.22.20:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.12.12-18.22.20:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.12.12-18.22.20:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.12.12-18.22.20:723][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.12.12-18.22.20:768][  0]LogSavePackage: Moving '../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/Floor_400x400623C67474430126E41D32F9C67ACC06F.tmp' to '../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.12.12-18.22.20:768][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2020.12.12-18.22.20:770][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.12-18.22.20:770][  0]LightingResults: New page: Lighting Build
+[2020.12.12-18.22.20:771][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-18.22.20:771][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-18.22.20:771][  0]MapCheck: New page: Map Check
+[2020.12.12-18.22.20:771][  0]LightingResults: New page: Lighting Build
+[2020.12.12-18.22.20:778][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.12.12-18.22.21:081][  0]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
+[2020.12.12-18.22.21:081][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
+[2020.12.12-18.22.21:081][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2020.12.12-18.22.21:081][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2020.12.12-18.22.21:081][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2020.12.12-18.22.21:081][  0]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 2048X2048)
+[2020.12.12-18.22.21:081][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2020.12.12-18.22.21:082][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2020.12.12-18.22.21:082][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 2048X2048)
+[2020.12.12-18.22.21:082][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2020.12.12-18.22.21:102][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2020.12.12-18.22.21:102][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2020.12.12-18.22.21:102][  0]LogTexture: Display: Building textures: DeprecatedTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2020.12.12-18.22.22:548][  0]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2020.12.12-18.22.22:548][  0]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 2048X1024)
+[2020.12.12-18.22.22:548][  0]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 64X32)
+[2020.12.12-18.22.22:548][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2020.12.12-18.22.22:548][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
+[2020.12.12-18.22.22:548][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
+[2020.12.12-18.22.22:548][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X1024)
+[2020.12.12-18.22.22:548][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X1024)
+[2020.12.12-18.22.22:548][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 32X32)
+[2020.12.12-18.22.22:548][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X1024)
+[2020.12.12-18.22.22:548][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2020.12.12-18.22.22:548][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2020.12.12-18.22.22:549][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.12.12-18.22.22:563][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.12-18.22.22:571][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.12.12-18.22.22:588][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.12-18.22.22:588][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,192ms to complete.
+[2020.12.12-18.22.22:588][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.818
+[2020.12.12-18.22.22:590][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.109
+[2020.12.12-18.22.22:704][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-18.22.22:709][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-18.22.22:714][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-18.22.22:718][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-18.22.22:734][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0102 seconds. Added 3601 classes and 859 folders.
+[2020.12.12-18.22.22:736][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.12-18.22.22:740][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.12-18.22.22:740][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:740][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.12-18.22.22:740][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2020.12.12-18.22.22:743][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2020.12.12-18.22.22:743][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:743][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2020.12.12-18.22.22:743][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2020.12.12-18.22.22:743][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2020.12.12-18.22.22:743][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:743][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2020.12.12-18.22.22:743][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2020.12.12-18.22.22:744][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.12-18.22.22:744][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:744][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.12-18.22.22:744][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2020.12.12-18.22.22:745][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2020.12.12-18.22.22:745][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:745][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2020.12.12-18.22.22:745][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2020.12.12-18.22.22:745][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2020.12.12-18.22.22:745][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:745][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2020.12.12-18.22.22:745][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2020.12.12-18.22.22:746][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2020.12.12-18.22.22:746][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:746][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2020.12.12-18.22.22:746][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2020.12.12-18.22.22:746][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2020.12.12-18.22.22:746][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:746][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2020.12.12-18.22.22:746][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2020.12.12-18.22.22:747][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.12-18.22.22:747][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:747][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.12-18.22.22:747][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2020.12.12-18.22.22:747][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2020.12.12-18.22.22:747][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:747][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2020.12.12-18.22.22:747][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2020.12.12-18.22.22:748][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2020.12.12-18.22.22:748][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:748][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2020.12.12-18.22.22:748][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2020.12.12-18.22.22:749][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.12-18.22.22:749][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:749][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.12-18.22.22:749][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2020.12.12-18.22.22:749][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.12-18.22.22:749][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:749][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.12-18.22.22:749][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2020.12.12-18.22.22:750][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.12-18.22.22:750][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:750][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.12-18.22.22:750][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2020.12.12-18.22.22:750][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2020.12.12-18.22.22:750][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:750][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2020.12.12-18.22.22:750][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2020.12.12-18.22.22:751][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.12-18.22.22:751][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:751][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.12-18.22.22:751][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2020.12.12-18.22.22:752][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2020.12.12-18.22.22:752][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:752][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2020.12.12-18.22.22:752][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2020.12.12-18.22.22:752][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.12-18.22.22:752][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:752][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.12-18.22.22:752][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2020.12.12-18.22.22:753][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.12-18.22.22:753][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:753][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.12-18.22.22:753][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2020.12.12-18.22.22:753][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.12-18.22.22:753][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:753][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.12-18.22.22:754][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2020.12.12-18.22.22:754][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.12-18.22.22:754][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:754][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.12-18.22.22:754][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2020.12.12-18.22.22:755][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.12-18.22.22:755][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:755][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.12-18.22.22:755][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2020.12.12-18.22.22:755][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2020.12.12-18.22.22:755][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:755][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2020.12.12-18.22.22:755][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2020.12.12-18.22.22:756][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.12-18.22.22:756][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:756][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.12-18.22.22:756][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2020.12.12-18.22.22:757][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.12-18.22.22:757][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:757][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.12-18.22.22:757][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2020.12.12-18.22.22:757][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2020.12.12-18.22.22:757][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.12-18.22.22:757][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2020.12.12-18.22.22:757][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2020.12.12-18.22.22:798][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.12-18.22.22:800][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2020.12.12-18.22.22:853][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.12-18.22.22:855][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.12-18.22.22:860][  0]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.12-18.22.22:927][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.12.12-18.22.22:993][  0]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.12-18.22.23:059][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.12-18.22.23:059][  0]LogLoad: (Engine Initialization) Total time: 8.58 seconds
+[2020.12.12-18.22.23:059][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.12-18.22.23:059][  0]LogInit: First time updating LLM stats...
+[2020.12.12-18.22.23:086][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2020.12.12-18.22.23:086][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.12.12-18.22.23:109][  0]LogAssetRegistry: Asset discovery search completed in 5.6222 seconds
+[2020.12.12-18.22.23:110][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2020.12.12-18.22.23:212][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.12-18.22.51:622][701]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.12.12-18.22.53:819][826]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.12.12-18.22.54:502][867]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.12.12-18.22.55:071][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.12-18.22.55:612][931]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.12.12-18.23.23:488][564]LogSlate: Window 'Source Control Login' being destroyed
+[2020.12.12-18.23.37:551][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.23.37:551][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.23.37:551][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.23.37:551][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.23.37:551][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.23.37:551][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.23.37:551][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.23.37:551][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.23.37:551][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.23.37:551][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.23.37:551][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.23.37:551][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.23.37:551][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.23.37:551][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.23.37:551][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.23.37:551][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.23.37:551][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.23.37:551][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.23.37:551][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.23.37:551][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.23.37:551][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.24.06:686][103]LogSlate: Window 'Submit Files' being destroyed
+[2020.12.12-18.24.07:030][103]LogSourceControl: commit successful: [master 296c514] MVP1_initial commit
+[2020.12.12-18.24.07:152][103]SourceControl: [master 296c514] MVP1_initial commit
+[2020.12.12-18.24.07:152][103]SourceControl:  2 files changed, 6 insertions(+)
+[2020.12.12-18.24.07:152][103]SourceControl:  create mode 100644 MVP_Projects/MVP1_Unreal/Content/FirstPersonBP/FirstPersonOverview.uasset
+[2020.12.12-18.24.07:152][103]SourceControl:  create mode 100644 MVP_Projects/MVP1_Unreal/MVP1_Unreal.uproject
+[2020.12.12-18.24.07:159][103]SourceControl: Commited [master 296c514] MVP1_initial commit.
+[2020.12.12-18.24.08:554][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.12.12-18.24.12:138][181]LogSlate: Window 'Save Content' being destroyed
+[2020.12.12-18.24.12:252][181]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.12-18.24.12:280][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.12.12-18.24.12:313][181]LogSavePackage: Moving '../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/FirstPersonExampleMapD6A934AD47911C90486D8EA2B6DB8B0D.tmp' to '../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.12.12-18.24.12:321][181]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.047
+[2020.12.12-18.24.12:334][181]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2020.12.12-18.24.12:334][181]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.12.12-18.24.15:134][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.12.12-18.24.18:407][536]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.24.18:407][536]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.24.18:407][536]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.24.18:407][536]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.24.18:407][536]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.24.18:407][536]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.24.18:407][536]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.24.18:407][536]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.24.18:407][536]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.24.18:407][536]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.24.18:407][536]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.24.18:407][536]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.24.18:407][536]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.24.18:407][536]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.24.18:407][536]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.24.18:407][536]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.24.18:407][536]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.24.18:407][536]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.24.18:407][536]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.24.18:407][536]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.24.18:407][536]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/Anton/Documents/Github/Ninoton-Gagbib'
+[2020.12.12-18.24.18:673][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.12.12-18.24.18:707][536]LogSavePackage: Moving '../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Saved/FirstPersonExampleMap1B36D85B4522E941231D00B9D3B9BF45.tmp' to '../../../../../../Users/Anton/Documents/Github/Ninoton-Gagbib/MVP_Projects/MVP1_Unreal/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.12.12-18.24.18:713][536]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.045
+[2020.12.12-18.24.30:483][536]LogSlate: Window 'Submit Files' being destroyed
+[2020.12.12-18.24.31:174][536]LogSourceControl: commit successful: [master f8bce05] MAP test commit
+[2020.12.12-18.24.31:229][536]SourceControl: [master f8bce05] MAP test commit
+[2020.12.12-18.24.31:229][536]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2020.12.12-18.24.31:229][536]SourceControl:  create mode 100644 MVP_Projects/MVP1_Unreal/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2020.12.12-18.24.31:236][536]SourceControl: Commited [master f8bce05] MAP test commit.
+[2020.12.12-18.24.31:256][537]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2020.12.12-18.24.31:256][537]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.12.12-18.30.21:598][980]LogSlate: Window 'Source Control Login' being destroyed
+[2020.12.12-18.31.02:298][572]SourceControl: Source control is disabled
+[2020.12.12-18.31.02:298][572]LogSlate: Window 'Source Control Login' being destroyed
+[2020.12.12-18.31.16:868][395]LogSlate: Window 'Source Control Login' being destroyed
