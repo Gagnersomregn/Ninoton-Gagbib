@@ -6,6 +6,9 @@
 *.lo
 *.o
 *.obj
+#other
+*.bin
+*.ini
 
 # Precompiled Headers
 *.gch
