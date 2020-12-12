@@ -75,4 +75,4 @@ MVP_Projects/MVP1_Unreal/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 MVP_Projects/MVP1_Unreal/DerivedDataCache/*
-MVP_Projects/MVP1_Unreal/Saved/Logs/MVP1_Unreal.log
+MVP_Projects/MVP1_Unreal/Saved/Logs/*
